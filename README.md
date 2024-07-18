@@ -42,3 +42,10 @@ He allows configure access rights, protect resources and ensure security data Sp
 ### Running the backend
 
 The best way to launch the server is to use your favorite java IDE. The main method of the application is in the BackendApplication.java.
+
+### Runnig the frontend
+
+```
+cd frontend
+npm start
+```
