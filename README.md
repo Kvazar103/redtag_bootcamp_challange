@@ -44,7 +44,6 @@ it allows configure access rights, protect resources and ensure security data Sp
 The best way to launch the server is to use your favorite java IDE. The main method of the application is in the BackendApplication.java.
 
 ### Runnig the frontend
-
 ```
 cd frontend
 npm start
@@ -53,4 +52,16 @@ npm start
 ## Login page
 ![alt text](images/login.png)
 
+## Register page
+![alt text](images/register.png)
 
+## Add book
+![alt text](images/addBook.png)
+
+## Edit book
+![alt text](images/editBook.png)
+
+## Book list
+![alt text](images/booksList.png)
+
+# THANK YOU!
