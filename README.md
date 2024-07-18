@@ -37,7 +37,7 @@ ___
 ### Security
 
 Spring Security provides mechanisms for authentication, authorization and security management in the application. 
-He allows configure access rights, protect resources and ensure security data Spring Security JWT: Spring Security JWT (JSON Web Token) is a Spring Security extension that provides support for authentication and authorization using JWT tokens in the web application
+it allows configure access rights, protect resources and ensure security data Spring Security JWT: Spring Security JWT (JSON Web Token) is a Spring Security extension that provides support for authentication and authorization using JWT tokens in the web application
 
 ### Running the backend
 
@@ -49,3 +49,8 @@ The best way to launch the server is to use your favorite java IDE. The main met
 cd frontend
 npm start
 ```
+---
+## Login page
+![alt text](images/login.png)
+
+
